@@ -1,1 +1,1 @@
-# Kokokotsu-Menu
+Kokokotsu Menu (current)
